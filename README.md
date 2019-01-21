@@ -1,3 +1,3 @@
-# CPU_verilog_1
+﻿# CPU_verilog_1
 for assignment  
-�ȨѰѦ�
+僅供參考
