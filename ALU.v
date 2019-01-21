@@ -14,6 +14,9 @@ module ALU( source1,source2,ALU_CTRL,result);
     wire oflow;	
     wire slt;
 
+    
+    assign sub_12 = source1 - source2;
+    assign add_12 = source1 + source2;
 	
     assign oflow_add = (source1[15] == source2[15] && add_12[15] != source1[15]) ? 1 : 0;    //????overflow
     assign oflow_sub = (source1[15] == source2[15] && sub_12[15] != source1[15]) ? 1 : 0;
