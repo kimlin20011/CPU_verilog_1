@@ -1,2 +1,3 @@
 # CPU_verilog_1
-for assignment
+for assignment  
+**¶È¨Ñ°Ñ¦Ò**  
