@@ -1,3 +1,3 @@
 # CPU_verilog_1
 for assignment  
-**度ㄑ把σ**  
+度ㄑ把σ
